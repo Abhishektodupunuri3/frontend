@@ -1,4 +1,4 @@
 @Library('roboshop-shared-library') _
 
-env.COMPONENT='payment'                 //declaring a global variable
+env.COMPONENT='frontend'                 //declaring a global variable
 angularjs()
